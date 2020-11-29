@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "山田愛 成果展"
+date:   2020-11-28 21:52:29 +0900
+categories: jekyll update
+---
+
+![My helpful screenshot](/assets/yamada.jpg)
+
+[こちら](https://forms.gle/Zuom8Z5vHzuAEEnt8)のフォームから予約をお願いいたします。

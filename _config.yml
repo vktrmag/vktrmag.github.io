@@ -18,20 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 野村パターソンかずたか と 0について
-email: kamikawa@protonmail.com
+title: AIRA
+email: airavktr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  野村パターソンかずたかのウェブサイトです。
+  アーティストインレジデンスあさひかわ（AIRA)は北海道旭川市を拠点とする文化芸術人材の支援プログラムです。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:
+twitter_username: vktrmag
+facebook_username: vktrmag
+instagram_username: vktrmag
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

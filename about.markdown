@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: AIRAについて
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![アーティストインレジデンスあさひかわロゴ](/assets/aira-icon.jpg)
+アーティストインレジデンスあさひかわ （AIRA）は2020年に北海道旭川市にて発足した芸術家招聘を通した地域活性を目的としたプログラムです。市内での滞在を通して、地域の風土・文化・人々に影響を受けた作品制作やパフォーマンス作りを行っていただきます。発表・交流イベントの開催に加え、教育機関や周辺市町村、または地域企業などとのコラボレーションが発生する場合があります。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+アーティストインレジデンスあさひかわは旭川市緊急応援プロジェクト補助金の採択プロジェクトです。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+ [>>旭川市ウェブサイト](https://www.city.asahikawa.hokkaido.jp/500/501/502/d071441.html)
